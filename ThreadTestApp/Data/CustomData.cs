@@ -1,4 +1,4 @@
-namespace ThreadTestApp.AsyncState;
+namespace ThreadTestApp.Data;
 public class CustomData
 {
   public long CreationTime;

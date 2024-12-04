@@ -8,4 +8,5 @@ using ThreadTestApp.Iteration;
 // Result.ResultTest();
 
 
-IterationTwo.IterationTwoTest();
+// IterationTwo.IterationTwoTest();
+IterationOne.IterationOneTest();
