@@ -1,0 +1,14 @@
+C:\Users\jipu.li\AppData\Local\laragon\www\dotnet\threading\ThreadTestApp\obj\Debug\net9.0\ThreadTestApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jipu.li\AppData\Local\laragon\www\dotnet\threading\ThreadTestApp\obj\Debug\net9.0\ThreadTestApp.AssemblyInfoInputs.cache
+C:\Users\jipu.li\AppData\Local\laragon\www\dotnet\threading\ThreadTestApp\obj\Debug\net9.0\ThreadTestApp.AssemblyInfo.cs
+C:\Users\jipu.li\AppData\Local\laragon\www\dotnet\threading\ThreadTestApp\obj\Debug\net9.0\ThreadTestApp.csproj.CoreCompileInputs.cache
+C:\Users\jipu.li\AppData\Local\laragon\www\dotnet\threading\ThreadTestApp\bin\Debug\net9.0\ThreadTestApp.exe
+C:\Users\jipu.li\AppData\Local\laragon\www\dotnet\threading\ThreadTestApp\bin\Debug\net9.0\ThreadTestApp.deps.json
+C:\Users\jipu.li\AppData\Local\laragon\www\dotnet\threading\ThreadTestApp\bin\Debug\net9.0\ThreadTestApp.runtimeconfig.json
+C:\Users\jipu.li\AppData\Local\laragon\www\dotnet\threading\ThreadTestApp\bin\Debug\net9.0\ThreadTestApp.dll
+C:\Users\jipu.li\AppData\Local\laragon\www\dotnet\threading\ThreadTestApp\bin\Debug\net9.0\ThreadTestApp.pdb
+C:\Users\jipu.li\AppData\Local\laragon\www\dotnet\threading\ThreadTestApp\obj\Debug\net9.0\ThreadTestApp.dll
+C:\Users\jipu.li\AppData\Local\laragon\www\dotnet\threading\ThreadTestApp\obj\Debug\net9.0\refint\ThreadTestApp.dll
+C:\Users\jipu.li\AppData\Local\laragon\www\dotnet\threading\ThreadTestApp\obj\Debug\net9.0\ThreadTestApp.pdb
+C:\Users\jipu.li\AppData\Local\laragon\www\dotnet\threading\ThreadTestApp\obj\Debug\net9.0\ThreadTestApp.genruntimeconfig.cache
+C:\Users\jipu.li\AppData\Local\laragon\www\dotnet\threading\ThreadTestApp\obj\Debug\net9.0\ref\ThreadTestApp.dll
