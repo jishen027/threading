@@ -3,7 +3,8 @@ using ThreadTestApp.Result;
 using ThreadTestApp.Iteration;
 using ThreadTestApp.Culture;
 using ThreadTestApp.Continuation;
-using ThreadTestApp.ChildTask;
+using ThreadTestApp.CancellationToken;
+// using ThreadTestApp.ChildTask;
 // AsyncState asyncState = new AsyncState();
 // asyncState.ThreadTest();
 // Result.ResultTest();
@@ -12,4 +13,6 @@ using ThreadTestApp.ChildTask;
 // Culture.CultureTest();
 
 // ContinuationOne.ContinuationOneTest();
-Child.ChildTest();
+// Child.ChildTest();
+
+await CancellationTokenTaskApp.CancellationTokenTaskTest();
